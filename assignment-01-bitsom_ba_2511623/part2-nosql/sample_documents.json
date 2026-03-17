@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": 1,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 25000,
+    "brand": "Samsung",
+    "specs": {
+      "warranty": "1 year",
+      "voltage": "220V",
+      "battery": "5000mAh"
+    },
+    "features": ["5G", "AMOLED Display", "Fast Charging"]
+  },
+  {
+    "product_id": 2,
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 799,
+    "brand": "Nike",
+    "size": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "color": ["Black", "White", "Blue"]
+  },
+  {
+    "product_id": 3,
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-01",
+    "nutrition": {
+      "calories": "150 kcal",
+      "protein": "8g",
+      "fat": "5g"
+    },
+    "storage": "Keep refrigerated"
+  },
+  {
+    "product_id": 4,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 75000,
+    "brand": "Dell",
+    "specs": {
+      "warranty": "2 years",
+      "voltage": "220V",
+      "processor": "Intel i7"
+    },
+    "features": ["SSD", "16GB RAM", "Windows 11"]
+  }
+]
