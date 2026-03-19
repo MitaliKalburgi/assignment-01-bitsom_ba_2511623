@@ -37,6 +37,7 @@ If a product appears in only one order and that row is deleted, all information 
 Dataset Reference:
 Products with single occurrence in the dataset.
 
+---
 
 ## Normalization Justification
 
