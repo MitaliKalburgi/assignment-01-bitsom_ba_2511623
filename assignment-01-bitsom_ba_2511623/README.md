@@ -1,4 +1,4 @@
-# Assignment 01 — Data Engineering
+# Assignment 01 - Data Engineering
 
 ## Student Details
 - Name: Mitali Kalburgi
@@ -16,12 +16,12 @@ This repository contains solutions for all parts of Assignment 01, covering:
 
 ## Folder Structure
 
-- part1-rdbms → SQL queries and normalization
-- part2-nosql → NoSQL implementation
-- part3-datawarehouse → OLAP queries and schema
-- part4-vector-db → embeddings and similarity search
-- part5-datalake → DuckDB queries and architecture
-- part6-capstone → architecture diagram and design justification
+- part1-rdbms -> SQL queries and normalization
+- part2-nosql -> NoSQL implementation
+- part3-datawarehouse -> OLAP queries and schema
+- part4-vector-db -> embeddings and similarity search
+- part5-datalake -> DuckDB queries and architecture
+- part6-capstone -> architecture diagram and design justification
 
 ## Notes
 All outputs, code, and explanations have been included as per assignment instructions.
