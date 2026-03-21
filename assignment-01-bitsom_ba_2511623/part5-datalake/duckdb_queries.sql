@@ -14,7 +14,7 @@ GROUP BY c.name
 ORDER BY total_order_value DESC
 LIMIT 3;
 
---- Q3: List all products purchased by customers from Bangalore
+-- Q3: List all products purchased by customers from Bangalore
 SELECT DISTINCT p.product_name
 FROM read_csv_auto('assignment-01-bitsom_ba_2511623/datasets/customers.csv') c
 JOIN read_json_auto('assignment-01-bitsom_ba_2511623/datasets/orders.json') o
